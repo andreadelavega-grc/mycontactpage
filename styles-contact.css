@@ -111,8 +111,7 @@ html, body {
    
 #logo {
 	width: 80%; /*--responsive--*/
-    margin-bottom: 10px;
-	margin-top: 5px;
+    margin-bottom: 16px;
 	text-align: center;
 
 }
@@ -159,10 +158,10 @@ nav a{
 	padding: 10px;
 }
 a{
-	color:rgb(250, 233, 201);
+	color:rgb(100, 17, 68);
 	text-decoration: none;
 	
 }
 a:hover{
-	background:rgb(178, 217, 244);
+	background:rgb(228, 173, 163);
 }
